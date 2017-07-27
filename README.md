@@ -1,4 +1,4 @@
-# cordova-plugin-fcm-config
+# cordova-plugin-fcm-config-cs
 
 > !! This Plugin is not necessary if [cordova-plugin-fcm](https://github.com/fechanique/cordova-plugin-fcm) > 2.0 is used !!
 
@@ -9,8 +9,8 @@ It is used in combination with the great [cordova-plugin-fcm](https://github.com
 
 ## Howto
 
-1. Copy this repository as `cordova-plugin-fcm-config` folder into your cordova project root folder.
+1. Copy this repository as `cordova-plugin-fcm-config-cs` folder into your cordova project root folder.
 2. Replace the `google-services.json` and `GoogleService-Info.plist` files from Firebase console.
 3. Add the plugin into your `config.xml` with 
   
-```<plugin name="cordova-plugin-fcm-config" spec="cordova-plugin-fcm-config" />```
+```<plugin name="cordova-plugin-fcm-config-cs" spec="cordova-plugin-fcm-config-cs" />```
